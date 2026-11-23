@@ -1,1 +1,17 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=ai-book-coach.html">
+  <title>AI Book Coach</title>
+</head>
+<body>
+  <p>Открываем AI Book Coach...</p>
+  <script>
+    window.location.replace("ai-book-coach.html");
+  </script>
+</body>
+</html>
 
